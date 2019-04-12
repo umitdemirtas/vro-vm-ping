@@ -1,4 +1,4 @@
-# vro-vm-ping
+# vRO-VM-Ping
 vRealize Orchestrator VM Pingleme
 
 Konu anlatımı için: http://www.umitdemirtas.com/vmware-vrealize-orchestrator-vm-pingleme/
